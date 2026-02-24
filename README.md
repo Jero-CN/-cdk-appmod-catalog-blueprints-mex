@@ -1,1 +1,1 @@
-# -cdk-appmod-catalog-blueprints-mex
+# cdk-appmod-catalog-blueprints-mex
